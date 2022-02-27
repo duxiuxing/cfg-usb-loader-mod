@@ -1,0 +1,24 @@
+# USBLoader config
+# lines starting with # are comments
+# see README-CFG.txt for help on options
+
+# rename this file from sample_config.txt to config.txt if you want to use it.
+# all setting in this file (sd:/apps/USBLoader/config.txt)
+# will override the global config (sd:/usb-loader/config.txt)
+
+# background = background.png
+# wbackground = background_wide.png
+# layout = large3
+# covers = 1
+# hide_footer = 1
+# device = usb
+
+#custom_private_server = [wiimmfi.de], STRING
+## custom WFC server. Max len 14.
+
+#nintendont_config_mode = [file],arg
+## file = parameters are passed to nintendont rewriting nintendont config file
+## arg = parameters are passed to nintendont via command line argument
+
+#update_nintendont = [0],1
+## enables nintendont update with other plugins.
