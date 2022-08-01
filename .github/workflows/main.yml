@@ -28,9 +28,9 @@ jobs:
       - name: Copy files
         run: | 
           mkdir -p dist/output/apps
-          cp apps/* dist/output/apps/
+          cp -r apps/* dist/output/apps/
           mkdir -p dist/output/usb-loader
-          cp usb-loader/* dist/output/usb-loader/
+          cp -r usb-loader/* dist/output/usb-loader/
 
       - name: Upload files
         uses: actions/upload-artifact@v3
