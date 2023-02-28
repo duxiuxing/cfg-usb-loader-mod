@@ -12,11 +12,22 @@ gui_style = flow
 gui_rows = 2
 
 # device
-device = usb
+# device = usb
 
-# language related options:
-# translation = XX
-# db_language = XX
+# 界面使用简体中文
+translation = ZH_CN
+load_unifont = 1
 
-# this is required for asian languages:
-# load_unifont = 1
+# 游戏名称和游戏信息使用简体中文
+db_language = ZHCN
+titles_url = http://www.gametdb.com/titles.txt?LANG=ZHCN
+db_url = http://www.gametdb.com/wiitdb.zip?LANG=ZHCN
+
+# 使用文件夹中的 .mp3 作为背景音乐
+# music = usb:/usb-loader
+
+# 游戏封面
+# covers_path = usb:/usb-loader/covers
+
+# 退出游戏之后自动打开以下频道
+# return_to_channel = UCXF
