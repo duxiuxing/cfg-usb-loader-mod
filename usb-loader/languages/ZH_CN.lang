@@ -17,20 +17,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "  59 blocks"
-msgstr "59格"
+msgstr "59 格"
 
 msgid " 123 blocks"
-msgstr "123格"
+msgstr "123 格"
 
 msgid " 251 blocks"
-msgstr "251格"
+msgstr "251 格"
 
 msgid " 507 blocks"
-msgstr "507格"
+msgstr "507 格"
 
 #, c-format
 msgid "%.1fGB free of %.1fGB"
-msgstr "总计空间%.1GB剩余%.1fGB"
+msgstr "总计空间 %.1fGB 剩余 %.1fGB"
 
 #, c-format
 msgid "%.2f%% of %.2fGB (%c) ETA: %d:%02d:%02d"
@@ -42,11 +42,11 @@ msgstr "%.2fGB 已复制 in %d:%02d:%02d"
 
 #, c-format
 msgid "%d available"
-msgstr "%d可用"
+msgstr "%d 可用"
 
 #, c-format
 msgid "%d more notes"
-msgstr "%d更多通知"
+msgstr "%d 更多通知"
 
 #, c-format
 msgid "%s Split: %d %s"
@@ -58,7 +58,7 @@ msgstr "%s,请等待"
 
 #, c-format
 msgid "%s: Favorites"
-msgstr "%s:收藏"
+msgstr "%s：收藏"
 
 #, c-format
 msgid "%s: GUI "
@@ -66,7 +66,7 @@ msgstr "%s：图形界面"
 
 #, c-format
 msgid "%s: Options "
-msgstr "%s:选项"
+msgstr "%s：选项"
 
 #, c-format
 msgid "(%d online)"
@@ -74,19 +74,19 @@ msgstr "(%d 在线)"
 
 #, c-format
 msgid "(%d seconds timeout)"
-msgstr "%d秒超时"
+msgstr "%d 秒超时"
 
 msgid "(This can take a couple of minutes)"
 msgstr "（这可能需要几分钟的时间）"
 
 msgid ".dol too small"
-msgstr ".dol尺寸过小"
+msgstr ".dol 尺寸过小"
 
 msgid "1.2+"
 msgstr "1.2+"
 
 msgid "1019 blocks"
-msgstr "1019格"
+msgstr "1019 格"
 
 msgid "1st-Person Shooter"
 msgstr "第一人称射击游戏"
@@ -101,10 +101,10 @@ msgid "2.2+"
 msgstr "2.2+"
 
 msgid "2043 blocks"
-msgstr "2043格"
+msgstr "2043 格"
 
 msgid "3D cover"
-msgstr "3D封面"
+msgstr "3D 封面"
 
 msgid "3rd-person Shooter"
 msgstr "第三人称射击"
@@ -152,16 +152,16 @@ msgid "All themes up to date."
 msgstr "全部主题更新到最新。"
 
 msgid "Alt Button Cfg:"
-msgstr "设置Alt键"
+msgstr "设置 Alt 键"
 
 msgid "Alt dol:"
-msgstr "选择dol："
+msgstr "选择 dol："
 
 msgid "Alternative .dol:"
-msgstr "可以选择dol："
+msgstr "可以选择 dol："
 
 msgid "Anti 002 Fix:"
-msgstr "反002修复"
+msgstr "反 002 修复"
 
 #, c-format
 msgid "App. Path: %s"
@@ -194,7 +194,7 @@ msgstr "自动"
 
 #, c-format
 msgid "Auto-start game: %.6s not found!"
-msgstr "自动开始游戏：%.6s未找到！"
+msgstr "自动开始游戏：%.6s 未找到！"
 
 msgid "Available Updates"
 msgstr "可用更新"
@@ -221,7 +221,7 @@ msgid "Billiards"
 msgstr "台球"
 
 msgid "Block IOS Reload:"
-msgstr "封堵IOS重加载："
+msgstr "封堵 IOS 重加载："
 
 msgid "Board Game"
 msgstr "棋盘游戏"
@@ -252,16 +252,16 @@ msgstr "商业模拟"
 
 #, c-format
 msgid "CFG base: %s"
-msgstr "CFG基本：%s"
+msgstr "CFG 基本：%s"
 
 msgid "Camera"
 msgstr "相机"
 
 msgid "Can not dump GC savegames.\n"
-msgstr "无法提取GC游戏存档。\n"
+msgstr "无法提取 GC 游戏存档。\n"
 
 msgid "Can't install Wii games!"
-msgstr "无发安装Wii游戏！"
+msgstr "无发安装 Wii 游戏！"
 
 msgid "Cancelled."
 msgstr "已取消。"
@@ -327,11 +327,11 @@ msgid "Configurable Loader %s"
 msgstr "Configurable Loader %s"
 
 msgid "Configuration error, MAX_DNS_ENTRIES reached while the list is empty"
-msgstr "设置错误，MAX_DNS_ENTRIES达到而该列表为空"
+msgstr "设置错误，MAX_DNS_ENTRIES 达到而该列表为空"
 
 #, c-format
 msgid "Connection error from net_read()  Errorcode: %i"
-msgstr "net_read()链接错误，错误代码:%i"
+msgstr "net_read() 链接错误，错误代码：%i"
 
 msgid "Console"
 msgstr "主机"
@@ -350,7 +350,7 @@ msgstr "烹饪"
 
 #, c-format
 msgid "Could not initialize DIP module! (ret = %d)"
-msgstr "无法初始化DIP模块！(ret = %d)"
+msgstr "无法初始化 DIP 模块！(ret = %d)"
 
 msgid "Country Fix:"
 msgstr "地区修复："
@@ -390,21 +390,21 @@ msgstr "当前版本：%s"
 msgid ""
 "Custom IOS %d could not be found!\n"
 "Please install it."
-msgstr "没有安装CIOS，请去91wii下载安装！"
+msgstr "没有安装 cIOS，请去 91wii 下载安装！"
 
 #, c-format
 msgid "Custom IOS %d could not be loaded! (ret = %d)"
-msgstr "CIOS%d无法加载！(ret = %d)"
+msgstr "cIOS%d 无法加载！(ret = %d)"
 
 #, c-format
 msgid ""
 "Custom IOS  %d is a stub!\n"
 "Please reinstall it."
-msgstr "CIOS %d是空！请重新安装。"
+msgstr "cIOS%d 是空！请重新安装。"
 
 #, c-format
 msgid "Custom IOS %s Loaded OK"
-msgstr "CIOS %s 加载完毕"
+msgstr "cIOS %s 加载完毕"
 
 msgid "DEVO"
 msgstr "DEVO"
@@ -437,7 +437,7 @@ msgid "Default"
 msgstr "缺省"
 
 msgid "Default Gamecube Loader:"
-msgstr "缺省Gamecube加载器："
+msgstr "缺省 Gamecube 加载器："
 
 msgid "Delete Game"
 msgstr "删除游戏"
@@ -461,7 +461,7 @@ msgid "Devolution"
 msgstr "Devolution"
 
 msgid "Devolution only accepts clean dumps!\n"
-msgstr "Devolution只支持完成格式的GC游戏镜像!\n"
+msgstr "Devolution 只支持完成格式的 GC 游戏镜像!\n"
 
 msgid "Disc"
 msgstr "光盘"
@@ -515,7 +515,7 @@ msgstr "正在下载所有封面：%.6s"
 
 #, c-format
 msgid "Downloading MISSING covers for %.6s"
-msgstr "正在下载缺失封面：%.6"
+msgstr "正在下载缺失封面：%.6s"
 
 msgid "Downloading Theme previews..."
 msgstr "正在做主题预览..."
@@ -527,16 +527,16 @@ msgid "Downloading database."
 msgstr "正在下载数据库。"
 
 msgid "Downloading devolution."
-msgstr "正在下载devolution。"
+msgstr "正在下载 devolution。"
 
 msgid "Downloading mighty plugin."
-msgstr "正在下载mighty插件。"
+msgstr "正在下载 mighty 插件。"
 
 msgid "Downloading neek2o plugin."
-msgstr "正在下载neek2o 插件。"
+msgstr "正在下载 neek2o 插件。"
 
 msgid "Downloading titles.txt ..."
-msgstr "正在下载titles.txt ..."
+msgstr "正在下载 titles.txt ..."
 
 msgid "Downloading translation file."
 msgstr "正在下载翻译文件。"
@@ -565,7 +565,7 @@ msgid "Dump savegame"
 msgstr "提取游戏存档"
 
 msgid "Duplicate ID3"
-msgstr "复制ID3"
+msgstr "复制 ID3"
 
 msgid "Dutch"
 msgstr "荷兰语"
@@ -580,14 +580,14 @@ msgid "ERROR game opt"
 msgstr "游戏选项错误"
 
 msgid "ERROR reading BCA!"
-msgstr "读取BCA错误！"
+msgstr "读取 BCA 错误！"
 
 #, c-format
 msgid "ERROR removing %s"
 msgstr "删除错误%s"
 
 msgid "ERROR writing BCA!"
-msgstr "写BCA错误"
+msgstr "写 BCA 错误"
 
 msgid "ERROR!"
 msgstr "错误！"
@@ -608,7 +608,7 @@ msgid "ERROR: Apploader %d"
 msgstr "错误：Apploader %d"
 
 msgid "ERROR: CIOS222/223 v4 required for BCA"
-msgstr "错误：CIOS222/223 v4 需要 BCA"
+msgstr "错误：cIOS222/223 v4 需要 BCA"
 
 msgid "ERROR: Cache Close"
 msgstr "错误：缓存关闭"
@@ -625,16 +625,16 @@ msgid "ERROR: GetCerts %d"
 msgstr "错误：GetCerts %d"
 
 msgid "ERROR: Invalid Game ID"
-msgstr "错误：无效的游戏ID"
+msgstr "错误：无效的游戏 ID"
 
 #, c-format
 msgid "ERROR: Loading EHC module! (%d)"
-msgstr "错误：加载EHC模块！(%d)"
+msgstr "错误：加载 EHC 模块！(%d)"
 
 msgid ""
 "ERROR: NTFS write disabled!\n"
 "(set ntfs_write=1)"
-msgstr "错误：NTFS分区写入关闭!\n"
+msgstr "错误：NTFS 分区写入关闭!\n"
 "(设置参数 ntfs_write=1)"
 
 #, c-format
@@ -642,7 +642,7 @@ msgid "ERROR: No partitions found! (ret = %d)"
 msgstr "错误：没有发现分区！(ret = %d)"
 
 msgid "ERROR: Not a Wii disc!!"
-msgstr "错误：不是Wii光盘！！"
+msgstr "错误：不是 Wii 光盘！！"
 
 #, c-format
 msgid "ERROR: Offset(0x%llx) %d"
@@ -665,23 +665,23 @@ msgid "ERROR: SetWBFS: %d"
 msgstr "错误：SetWBFS: %d"
 
 msgid "ERROR: Setting SD mode"
-msgstr "错误：设置SD模式"
+msgstr "错误：设置 SD 模式"
 
 #, c-format
 msgid "ERROR: USB init! (%d)"
-msgstr "ERROR:USB初始！(%d)"
+msgstr "ERROR:USB 初始！(%d)"
 
 msgid "ERROR: WBFS not mounted!"
-msgstr "错误：WBFS未加载！"
+msgstr "错误：WBFS 未加载！"
 
 msgid ""
 "ERROR: cIOS249rev18, cIOS222v4,\n"
 "cIOS223v4, cIOS224v5 or higher required\n"
 "for starting games from a FAT partition!\n"
 "Upgrade IOS249 or choose a different IOS."
-msgstr "错误：要想使用FAT分区请安装"
-"cIOS249rev18, cIOS222v4,cIOS223v4, cIOS224v5"
-"更高版本或者更新最新的IOS249例如d2x v9。"
+msgstr "错误：要想使用 FAT 分区请安装"
+"cIOS222v6, cIOS223v6, cIOS224v6 或更高版本"
+"更新 cIOS249~251 至 d2x-v11-beta1 或更高版本。"
 
 msgid "ERROR: cache: out of memory"
 msgstr "错误：缓存：溢出内存"
@@ -700,13 +700,13 @@ msgstr "错误：内存覆盖！"
 msgid ""
 "ERROR: multiple wbfs partitions\n"
 "supported only with IOS222/223-mload"
-msgstr "错误：仅仅IOS222/223-mload支持多WBFS分区！"
+msgstr "错误：仅仅 cIOS222/223-mload 支持多 WBFS 分区！"
 
 msgid "ERROR: not enough free space!!"
 msgstr "错误：剩余空间不足！！"
 
 msgid "ERROR: ntfs was not cleanly unmounted"
-msgstr "错误：ntfs不是完全卸载！"
+msgstr "错误：NTFS 不是完全卸载！"
 
 #, c-format
 msgid "ERROR: opening %.6s"
@@ -735,7 +735,7 @@ msgid "Educational"
 msgstr "教育性"
 
 msgid "Ejecting DVD..."
-msgstr "退出DVD"
+msgstr "退出 DVD"
 
 msgid "English"
 msgstr "英语"
@@ -747,7 +747,7 @@ msgid "Enter Code: "
 msgstr "输入代码："
 
 msgid "Error GRRLIB init"
-msgstr "GRRLIB初始错误"
+msgstr "GRRLIB 初始错误"
 
 msgid "Error Initializing Network."
 msgstr "网络初始化错误。"
@@ -801,10 +801,10 @@ msgid "Error playing %s"
 msgstr "运行错误 %s"
 
 msgid "Error reading .dol"
-msgstr 读取.dol错误""
+msgstr 读取 .dol 错误""
 
 msgid "Error reading dol header"
-msgstr "读取dol头文件错误"
+msgstr "读取 dol 头文件错误"
 
 #, c-format
 msgid "Error saving %s"
@@ -820,12 +820,12 @@ msgid ""
 "Error storing playlog file.\n"
 "Start from the Wii Menu to fix."
 msgstr "排序运行日志文件错误。\n"
-"从Wii主菜单运行修复此问题。"
+"从 Wii 主菜单运行修复此问题。"
 msgid "Error: Invalid PNG image!"
-msgstr "错误：无限的PNG格式！"
+msgstr "错误：无效的 PNG 格式！"
 
 msgid "Error: no URL."
-msgstr "错误：无URL。"
+msgstr "错误：无 URL。"
 
 msgid "Error: no data."
 msgstr "错误：无数据。"
@@ -845,11 +845,11 @@ msgstr "失败"
 
 #, c-format
 msgid "FAT: ALLOC ERROR %p %p %p"
-msgstr "FAT:：分配错误 %p %p %p"
+msgstr "FAT：分配错误 %p %p %p"
 
 #, c-format
 msgid "FATAL: alloc grid(%d)"
-msgstr "致命：分配grid(%d)"
+msgstr "致命：分配 grid(%d)"
 
 #, c-format
 msgid "FILL %d"
@@ -862,7 +862,7 @@ msgid "FULL cover"
 msgstr "完整封面"
 
 msgid "FWD Emulators"
-msgstr "FWD模拟器"
+msgstr "FWD 模拟器"
 
 msgid "Fav"
 msgstr "收藏"
@@ -932,19 +932,19 @@ msgid "Force NTSC"
 msgstr "强制NTSC"
 
 msgid "Force NTSC 480p"
-msgstr "强制NTSC 480P"
+msgstr "强制 NTSC 480P"
 
 msgid "Force PAL"
-msgstr "强制PAL"
+msgstr "强制 PAL"
 
 msgid "Force PAL 480p"
-msgstr "强制PAL 480p"
+msgstr "强制 PAL 480p"
 
 msgid "Force PAL50"
-msgstr "强制PAL50"
+msgstr "强制 PAL50"
 
 msgid "Force PAL60"
-msgstr "强制PAL60"
+msgstr "强制 PAL60"
 
 msgid "Formatting"
 msgstr "正在格式化"
@@ -1013,7 +1013,7 @@ msgid "HQ cover"
 msgstr "高清封面"
 
 msgid "HTTP Response was without a file"
-msgstr "HTTP响应无此文件"
+msgstr "HTTP 响应无此文件"
 
 msgid "Health"
 msgstr "健康"
@@ -1031,7 +1031,7 @@ msgid "Hockey"
 msgstr "曲棍球"
 
 msgid "Hold button B to cancel."
-msgstr "按住B键取消。"
+msgstr "按住 B 键取消。"
 
 msgid "Home Menu"
 msgstr "主菜单"
@@ -1054,21 +1054,21 @@ msgstr "IOS重加载：已阻止"
 
 #, c-format
 msgid "IOS_Open(%s) failed with code %d"
-msgstr "IOS_Open(%s)失败用代码 %d"
+msgstr "IOS_Open(%s) 失败用代码 %d"
 
 msgid ""
 "If Cfg does not start properly\n"
 "next time, copy boot.dol.bak over\n"
 "boot.dol and try again."
-msgstr "如果CFG没正确运行，可以boot.dol.bak\n"
-"文件恢复成boot.dol最后再次运行。"
+msgstr "如果 CFG 没正确运行，下次可以把 boot.dol.bak\n"
+"重命名为 boot.dol 再运行。"
 
 #, c-format
 msgid "Inconsistency in LZ77 encoding %x"
-msgstr "不一致LZ77编码"
+msgstr "不一致 LZ77 编码"
 
 msgid "Infinity Base"
-msgstr "无限基地"
+msgstr "无限基础"
 
 msgid "Info"
 msgstr "信息"
@@ -1100,7 +1100,7 @@ msgid "Installing game, please wait..."
 msgstr "正在安装游戏，请等待..."
 
 msgid "Invalid .dol"
-msgstr "无效的.dol"
+msgstr "无效的 .dol"
 
 #, c-format
 msgid "Invalid partition: '%s'"
@@ -1119,7 +1119,7 @@ msgid "Jump"
 msgstr "跳高"
 
 msgid "Karaoke"
-msgstr "卡拉OK"
+msgstr "卡拉 OK"
 
 msgid "Kart Racing"
 msgstr "卡丁赛车"
@@ -1152,7 +1152,7 @@ msgid "Life Simulation"
 msgstr "生活模拟"
 
 msgid "Load OK!"
-msgstr "加载OK！"
+msgstr "加载 OK！"
 
 #, c-format
 msgid "Loader Version: %s"
@@ -1166,10 +1166,10 @@ msgid "Loading..%s\n"
 msgstr "加载中..%s\n"
 
 msgid "MC size:"
-msgstr "MC大小："
+msgstr "MC 大小："
 
 msgid "MC size::"
-msgstr "MC大小："
+msgstr "MC 大小："
 
 msgid "Main"
 msgstr "主菜单"
@@ -1180,8 +1180,8 @@ msgstr "主菜单"
 msgid ""
 "Make sure USB port 0 is used!\n"
 "(The one nearest to the edge)"
-msgstr "确认是否使用USB 0号端口!\n"
-"(下面的那个USB端口)"
+msgstr "确认是否使用 USB 0 号端口!\n"
+"(靠近外面的那个 USB 端口)"
 
 msgid "Manage"
 msgstr "管理"
@@ -1199,7 +1199,7 @@ msgid "Microphone"
 msgstr "麦克风"
 
 msgid "Mighty Plugin"
-msgstr "Mighty插件"
+msgstr "Mighty 插件"
 
 msgid "Motion+"
 msgstr "Motion+"
@@ -1250,10 +1250,10 @@ msgstr "音乐：音乐组内容："
 msgid ""
 "NAND Emu Path:\n"
 "%s\n"
-msgstr "模拟NAND路径：:\n"
+msgstr "模拟 NAND 路径：:\n"
 "%s\n"
 msgid "NAND Emu:"
-msgstr "模拟NAND："
+msgstr "模拟 NAND："
 
 msgid "NMM:"
 msgstr "免记忆卡："
@@ -1261,28 +1261,29 @@ msgstr "免记忆卡："
 msgid ""
 "NOTE: CIOS249 before rev10:\n"
 "Loading games from SDHC not supported!"
-msgstr "注意：CIOS249 rev10之前的版本:\n"
-"不支持从SDHC加载Wii的游戏!"
+msgstr "注意：cIOS249 rev10 之前的版本:\n"
+"不支持从 SDHC 加载 Wii 的游戏!"
+
 msgid ""
 "NOTE: CIOS249 before rev14:\n"
 "Possible error #001 is not handled!"
-msgstr "注意：CIOS249 rev14之前的版本:\n"
+msgstr "注意：cIOS249 rev14 之前的版本:\n"
 "可能会出现 错误 #001 而造成无法运行！"
 
 msgid ""
 "NOTE: CIOS249 before rev9:\n"
 "Loading games from USB not supported!"
-msgstr "注意：CIOS249 rev9之前的版本:\n"
-" 不支持USB加载游戏"
+msgstr "注意：cIOS249 rev9 之前的版本:\n"
+" 不支持 USB 加载游戏"
 
 msgid ""
 "NOTE: You are using CIOS249 rev13:\n"
 "To quit the game you must reset or\n"
 "power-off the Wii before you start\n"
 "another game or it will hang here!"
-msgstr "注意：你正在使用CIOS249 rev13:\n"
+msgstr "注意：你正在使用 cIOS249 rev13:\n"
 "要退出游戏，你必须复位键或\n"
-"在关闭Wii电源之后，\n"
+"在关闭 Wii 电源之后，\n"
 "才能再次运行另一个游戏"
 
 msgid ""
@@ -1291,10 +1292,10 @@ msgid ""
 "games. It is highly recommended that\n"
 "you use a different IOS or revision""
 "for installation/playback of this game."
-msgstr "注意：你正在使用CIOS249 rev14:\n"
-"它不支持双层D9光盘的\n"
-"游戏.强烈建议\n"
-"你用一个不同的iOS或升级CIOS\n"
+msgstr "注意：你正在使用 cIOS249 rev14:\n"
+"它不支持双层 D9 光盘的\n"
+"游戏。强烈建议\n"
+"你用一个不同的 IOS 或升级 cIOS\n"
 "安装/运行这个游戏"
 
 msgid ""
@@ -1315,28 +1316,28 @@ msgid ""
 "contains a WBFS filesystem. This is an\n"
 "invalid setup. Press %s to change the\n"
 "partition type from EXTEND to data."
-msgstr "注意：分区P#%d类型扩展，但\n"
-"包含一个WBFS文件.这是一个\n"
-"无效设置.按 %s 更改\n"
+msgstr "注意：分区 P#%d 是类型扩展，但\n"
+"包含一个 WBFS 文件系统。这是一个\n"
+"无效设置。按 %s 更改\n"
 "扩展数据分区类型"
 
 msgid "NTFS compression not supported!"
-msgstr "NTFS不支持压缩"
+msgstr "NTFS 不支持压缩"
 
 msgid "NTFS encryption not supported!"
-msgstr "NTFS不支持加密"
+msgstr "NTFS 不支持加密"
 
 msgid "NTSC-J patch:"
 msgstr "NTSC-J 补丁"
 
 msgid "Neek2o Plugin"
-msgstr "neek2o插件"
+msgstr "Neek2o 插件"
 
 msgid "Network connection established."
 msgstr "建立网络连接"
 
 msgid "Network error. Can't update gamercards."
-msgstr "网络错误.无法更新gamercards."
+msgstr "网络错误。无法更新 gamercards。"
 
 msgid "New Themes"
 msgstr "新主题"
@@ -1345,10 +1346,10 @@ msgid "Nintendo DS"
 msgstr "任天堂 DS"
 
 msgid "Nintendo DS Connectivity"
-msgstr "任天堂 DS链接"
+msgstr "任天堂 DS 链接"
 
 msgid "Nintendont"
-msgstr "任天堂"
+msgstr "Nintendont"
 
 msgid "No"
 msgstr "没有"
@@ -1376,7 +1377,7 @@ msgid "None found on disc"
 msgstr "未发现硬盘"
 
 msgid "Not Found boot.dol!"
-msgstr "未发现boot.dol!"
+msgstr "未发现 boot.dol!"
 
 msgid "Not Found!"
 msgstr "未发现！"
@@ -1403,22 +1404,22 @@ msgid "Ocarina Cheat Manager"
 msgstr "Ocarina 欺骗管理者"
 
 msgid "Ocarina: Code Error"
-msgstr "Ocarina:代码错误"
+msgstr "Ocarina: 代码错误"
 
 msgid "Ocarina: Codes found."
-msgstr "Ocarina:发现代码"
+msgstr "Ocarina: 发现代码"
 
 msgid "Ocarina: No codes found"
-msgstr "Ocarina:未发现代码"
+msgstr "Ocarina: 未发现代码"
 
 msgid "Ocarina: Out Of Memory Error"
 msgstr "Ocarina: 内存不足错误"
 
 msgid "Ocarina: Searching codes..."
-msgstr "Ocarina:搜索代码"
+msgstr "Ocarina: 搜索代码"
 
 msgid "Ocarina: Too many codes"
-msgstr "Ocarina:太多代码"
+msgstr "Ocarina: 太多代码"
 
 msgid "Off"
 msgstr "关"
@@ -1454,7 +1455,7 @@ msgid "Open Style"
 msgstr "打开风格"
 
 msgid "Opening DVD disc..."
-msgstr "打开DVD光盘"
+msgstr "打开 DVD 光盘"
 
 #, c-format
 msgid "Opening partition: %s"
@@ -1650,61 +1651,61 @@ msgstr "按 %s 开始游戏 "
 
 #, c-format
 msgid "Press %s to update without meta.xml"
-msgstr "按 %s 更新without meta.xml"
+msgstr "按 %s 更新"
 
 #, c-format
 msgid "Press %s/%s to select device."
 msgstr "按 %s/%s 选择设备"
 
 msgid "Press 1 to skip WBFS mounting"
-msgstr "按1跳过WBFS安装"
+msgstr "按 1 跳过 WBFS 安装"
 
 msgid "Press 2 to reload IOS"
-msgstr "按2加载IOS"
+msgstr "按 2 加载 IOS"
 
 msgid "Press A to continue without config.txt"
-msgstr "按A不选择配置.txt"
+msgstr "按 A 继续"
 
 msgid "Press A to select device"
-msgstr "按A选择设备"
+msgstr "按 A 选择设备"
 
 msgid "Press B to exit to HBC"
-msgstr "按B退出到HBC"
+msgstr "按 B 退出到 HBC"
 
 msgid "Press HOME to reset"
-msgstr "按home复位"
+msgstr "按 HOME 键复位"
 
 msgid "Press LEFT/RIGHT to select IOS"
-msgstr "按左/右选择iOS"
+msgstr "按左/右选择 IOS"
 
 msgid "Press any button to continue..."
-msgstr "按任意按键继续"
+msgstr "按任意键继续"
 
 msgid "Press any button to exit..."
-msgstr "按任意按键退出..."
+msgstr "按任意键退出..."
 
 msgid "Press any button to restart..."
-msgstr "按任意按键重启..."
+msgstr "按任意键重启..."
 
 msgid "Press any button.\n"
-msgstr "按任意按键.\n"
+msgstr "按任意键。\n"
 
 msgid "Press any button..."
-msgstr "按任意按键..."
+msgstr "按任意键..."
 
 #, c-format
 msgid "Press button %s to download covers."
-msgstr "按紧按钮 %s 下载封面"
+msgstr "按 %s 键下载封面"
 
 #, c-format
 msgid "Press button %s to eject DVD."
-msgstr "按%s 按键dvd弹出"
+msgstr "按 %s 键弹出 DVD。"
 
 msgid "Priiloader"
 msgstr "Priiloader"
 
 msgid "Profile:"
-msgstr "配置"
+msgstr "配置："
 
 #, c-format
 msgid "Profile: %s"
@@ -1748,7 +1749,7 @@ msgid "Read"
 msgstr "读取"
 
 msgid "Reading BCA..."
-msgstr "读取BCA中..."
+msgstr "BCA 读取中..."
 
 msgid "Reboot"
 msgstr "重新启动"
@@ -1763,14 +1764,14 @@ msgid "Release Notes: (short)"
 msgstr "发布通知：(略)"
 
 msgid "Removing game, please wait..."
-msgstr "删除游戏中,请等待..."
+msgstr "删除游戏中，请等待..."
 
 msgid "Restarting Wii..."
-msgstr "正在重新启动Wii。。。"
+msgstr "正在重新启动 Wii..."
 
 #, c-format
 msgid "Returned! (ret = %d)"
-msgstr "已返回！(ret = %d"
+msgstr "已返回！(ret = %d)"
 
 msgid "Rhythm"
 msgstr "节奏"
@@ -1788,13 +1789,13 @@ msgid "S. Chinese"
 msgstr "简体中文"
 
 msgid "SD/SDHC Card"
-msgstr "SD/SDHC卡"
+msgstr "SD/SDHC 卡"
 
 msgid "SUCCESS!"
 msgstr "成功！"
 
 msgid "Save .gct"
-msgstr "保存.gct"
+msgstr "保存 .gct"
 
 msgid "Save Debug"
 msgstr "保存调试"
@@ -1803,7 +1804,7 @@ msgid "Save Settings"
 msgstr "保存设置"
 
 msgid "Save debug.log"
-msgstr "保存debug.lo"
+msgstr "保存 debug.log"
 
 msgid "Savegame not found.\n"
 msgstr "游戏存档未发现.\n"
@@ -1818,7 +1819,7 @@ msgid "Saving cheats..."
 msgstr "正在保存金手指..."
 
 msgid "Saving gamelist.txt ... "
-msgstr "正在保存gamelist.txt ..."
+msgstr "正在保存 gamelist.txt ..."
 
 msgid "Saving settings..."
 msgstr "正在保存设置..."
@@ -1828,7 +1829,7 @@ msgstr "保存："
 
 #, c-format
 msgid "Saving: %s"
-msgstr "保存中：%s"
+msgstr "正在保存：%s"
 
 msgid "Screenshot:"
 msgstr "截图："
@@ -1843,10 +1844,10 @@ msgid "Search for:"
 msgstr "搜索："
 
 msgid "Select Alternative .dol:"
-msgstr "选择 选择.dol:"
+msgstr "选择 选择 .dol:"
 
 msgid "Select WBFS device:"
-msgstr "选择 WBFS设备："
+msgstr "选择 WBFS 设备："
 
 msgid "Select a different partition"
 msgstr "选择不同分区"
@@ -1879,10 +1880,10 @@ msgid "Show All"
 msgstr "显示全部"
 
 msgid "Show cIOS info"
-msgstr "显示cIOS信息"
+msgstr "显示 cIOS 信息"
 
 msgid "Shutdown"
-msgstr "关闭"
+msgstr "关机"
 
 msgid "Side:"
 msgstr "一边："
@@ -1950,7 +1951,7 @@ msgid "Stealth Action"
 msgstr "潜入行动"
 
 msgid "Stopping DVD..."
-msgstr "正在停止DVD..."
+msgstr "正在停止 DVD..."
 
 msgid "Strategy"
 msgstr "战略"
@@ -1968,7 +1969,7 @@ msgid "Survival Horror"
 msgstr "恐怖生存"
 
 msgid "Sync FAT free space info?"
-msgstr "同步FAT剩余空间信息？"
+msgstr "同步 FAT 剩余空间信息？"
 
 msgid "Synchronizing, please wait."
 msgstr "同步中，请等待。"
@@ -2003,7 +2004,7 @@ msgstr "主题信息"
 msgid ""
 "Theme may be too large.\n"
 "Reboot of Cfg suggested.\n"
-msgstr "主题过大，建议重新启动CFG。\n"
+msgstr "主题过大，建议重新启动 CFG。\n"
 
 msgid "Theme:"
 msgstr "主题："
@@ -2013,7 +2014,7 @@ msgid "Theme: %s"
 msgstr "主题：%s"
 
 msgid "Themes provided by wii.spiffy360.com"
-msgstr "主题提供者wii.spiffy360.co"
+msgstr "主题提供者 wii.spiffy360.com"
 
 msgid "Themes to download"
 msgstr "主题下载"
@@ -2069,10 +2070,10 @@ msgid "URL '%s' has no PATH part"
 msgstr "URL '%s'没有指定路径部分"
 
 msgid "USB Gecko found. Debugging is enabled."
-msgstr "USB Gecko发现。调试功能开启。"
+msgstr "发现 USB Gecko。调试功能开启。"
 
 msgid "USB Mass Storage Device"
-msgstr "USB大规模存储设备"
+msgstr "USB 大规模存储设备"
 
 msgid "Unknown"
 msgstr "未知"
@@ -2173,7 +2174,7 @@ msgid "Wii"
 msgstr "Wii"
 
 msgid "Wii Channel"
-msgstr "Wii频道"
+msgstr "Wii 频道"
 
 msgid "Wii Speak"
 msgstr "Wii麦克风"
@@ -2224,7 +2225,7 @@ msgid "[ SAVED ]"
 msgstr "[ 已保存 ]"
 
 msgid "[HOME]"
-msgstr "[HOME]键"
+msgstr "HOME键"
 
 msgid "[No HQ]"
 msgstr "[无高清]"
@@ -2240,7 +2241,7 @@ msgstr "[已保存]"
 
 #, c-format
 msgid "bad wbfs file: %s"
-msgstr "损坏的wbfs文件：%s"
+msgstr "损坏的 wbfs 文件：%s"
 
 msgid "calculating space, please wait..."
 msgstr "正在计算空间，请等待..."
@@ -2257,7 +2258,7 @@ msgstr "放弃"
 
 #, c-format
 msgid "domain %s could not be resolved"
-msgstr "域名%s无法解析"
+msgstr "域名 %s 无法解析"
 
 #, c-format
 msgid "error reading: %s (%d)"
@@ -2285,7 +2286,7 @@ msgstr "线性..."
 
 #, c-format
 msgid "loader.bin size: %d"
-msgstr "loader.bin尺寸：%d"
+msgstr "loader.bin 尺寸：%d"
 
 #, c-format
 msgid "music file too big (%d) %s"
@@ -2301,7 +2302,7 @@ msgid "none"
 msgstr "否"
 
 msgid "or format a WBFS partition."
-msgstr "或者WBFS格式分区。"
+msgstr "或者格式化 WBFS 分区。"
 
 msgid "page"
 msgstr "页码"
@@ -2339,7 +2340,7 @@ msgid "uDraw GameTablet"
 msgstr "uDraw 游戏平板"
 
 msgid "unable to open wii disc"
-msgstr "无法打开Wii光盘"
+msgstr "无法打开 Wii 光盘"
 
 #, c-format
 msgid "used: %p - %p"
