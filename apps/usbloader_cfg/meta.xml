@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
-<name>cfg USB Loader Mod</name>
-<version>r78.11</version>
-<release_date>20170115</release_date>
-<coder>nitraiolo</coder>
+<name>Configurable USB Loader</name>
+<version>70 Mod r78.11</version>
+<release_date>20170115000000</release_date>
+<coder>oggzee, usptactical, gannon, Clipper, R2-D2199, FIX94, nitro, etc.</coder>
 <short_description>Play from USB drive</short_description>
 <long_description>
 Play Wii Backups from USB harddrive
 cIOS 249 is required!
-Hermes cIOS 222/223 is supported.
+Hermes cIOS 222/223/224 is supported.
 USE AT YOUR OWN RISK!
 </long_description>
 </app>
